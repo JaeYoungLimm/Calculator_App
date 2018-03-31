@@ -2,4 +2,4 @@
 
 처음 연습으로 제작해본 계산기입니다.
 
-<img src="git@github.com:jyoung111/Calculator_App.git/image/mycal"></img>
+<img src="https://git@github.com:jyoung111/Calculator_App.git/image/mycal"></img>
