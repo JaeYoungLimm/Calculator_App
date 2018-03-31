@@ -2,4 +2,4 @@
 
 처음 연습으로 제작해본 계산기입니다.
 
-<img srd = "https://github.com/jyoung111/Calculator_App/image/mycal.jpg"></img>
+<img src = "https://github.com/jyoung111/Calculator_App/master/image/mycal.jpg"></img>
