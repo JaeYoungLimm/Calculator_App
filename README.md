@@ -4,3 +4,4 @@
 
 <img src = "https://raw.githubusercontent.com/jyoung111/Calculator_App/master/image/mycal.JPG"></img>
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/oiFBuRdrb30)
