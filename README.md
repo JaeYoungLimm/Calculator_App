@@ -4,4 +4,4 @@
 
 <img src = "https://github.com/jyoung111/Calculator_App/image/mycal.JPG"></img>
 
-![Preview](https://github.com/jyoung111/Calculator_App/master/image/mycal.jpg)
+![Preview](https://github.com/jyoung111/Calculator_App/master/image/mycal.JPG)
