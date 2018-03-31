@@ -4,5 +4,5 @@
 
 <br><br>
 
-<font style="size:20px">테스트 영상</font><br><br>
+<font size="7">테스트 영상</font><br><br>
 <img src = "https://raw.githubusercontent.com/jyoung111/Calculator_App/master/image/test.gif"></img>
