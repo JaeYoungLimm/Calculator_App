@@ -1,6 +1,6 @@
 # Calculator_App
 
-<p style="font-size : 30px">처음 연습으로 제작해본 계산기입니다.</p>
+<p style="font-size:20px">처음 연습으로 제작해본 계산기입니다.</p>
 
 <img src = "https://raw.githubusercontent.com/jyoung111/Calculator_App/master/image/mycal.JPG"></img>
 
